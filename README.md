@@ -1,13 +1,5 @@
 # mermaid-github
 ```mermaid
----
-config:
-    theme: dark
-    themeCSS: [
-        "[id^=entity] .er.entityBox { fill: green;}",
-        "[id^=entity-lms] .er.entityBox { fill: red;}"
-    ]
----
 erDiagram
     %% V3 DATABASE
 
