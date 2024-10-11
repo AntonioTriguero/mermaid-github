@@ -54,5 +54,4 @@ erDiagram
         string guid PK
         string lesson_guid FK "NOT NULLABLE"
     }
-
-``
+```
